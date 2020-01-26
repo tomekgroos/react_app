@@ -1,9 +1,9 @@
     import React from "react";
     import ReactDOM from "react-dom";
-    import Test2 from "./JSX/simplesTest";
-    import Myelement from "./JSX/table";
-    import Newtest from "./JSX/newTest";
-    import Garage from "./props/prop7";
+    import Person from "./JSX/state/st4";
+    import Parent from "./JSX/state/st4A";
 
 
-    ReactDOM.render(<Garage />, document.getElementById('root'));
+
+
+    ReactDOM.render(<Parent />, document.getElementById('root'));
