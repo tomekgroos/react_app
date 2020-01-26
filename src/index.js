@@ -1,9 +1,8 @@
     import React from "react";
     import ReactDOM from "react-dom";
-    import Person from "./JSX/state/st4";
-    import Parent from "./JSX/state/st4A";
+    import RouterExample from "./routing/router";
 
 
 
 
-    ReactDOM.render(<Parent />, document.getElementById('root'));
+    ReactDOM.render(<RouterExample />, document.getElementById('root'));
