@@ -1,8 +1,9 @@
     import React from "react";
     import ReactDOM from "react-dom";
-    import RouterExample from "./routing/router";
+    /*import RouterExample from "./routing/router";*/
+    import App from "./apicons/api"
 
 
 
 
-    ReactDOM.render(<RouterExample />, document.getElementById('root'));
+    ReactDOM.render(<App />, document.getElementById('root'));
