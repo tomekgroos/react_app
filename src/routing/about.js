@@ -6,6 +6,7 @@ export default class About extends React.Component {
         return (
             <div>
                 <h2>About</h2>
+                <h2>Her</h2>
                 <h2>You</h2>
 
             </div>
@@ -15,3 +16,4 @@ export default class About extends React.Component {
 }
 
 /*dodana linia test branchy*/
+/*komentarz na test branchy*/
