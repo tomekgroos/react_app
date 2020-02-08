@@ -7,10 +7,13 @@ export default class About extends React.Component {
             <div>
                 <h2>About</h2>
                 <h2>Her</h2>
+                <h2>You</h2>
+
             </div>
         );
     }
 
 }
 
+/*dodana linia test branchy*/
 /*komentarz na test branchy*/
